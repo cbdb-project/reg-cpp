@@ -1,0 +1,16 @@
+bith_year 
+
+death_year 
+death_age 
+测试ZHDBoronym 
+
+biog_addr 地理資訊
+biog_addr1data 籍貫(基本地址)：宋朝＞梓州路＞廣安軍＞渠江。
+biog_addr1notes 出處：未知,頁0000。
+
+
+
+
+posting 任官
+atabb
+end
